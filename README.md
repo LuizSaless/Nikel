@@ -1,6 +1,6 @@
 # Nikel
-## Codaí 2.0 - Front-End GrowDev
-### Este curso tem como objetivo mostrar um pouco de como é o desenvolvimento de software voltado para a internet
+## Codaí 2.0 - Front-End
+### Este projeto tem como objetivo mostrar um pouco de como é o desenvolvimento de software voltado para a internet
 Módulo I: Introdução sobre a criação e estilização de páginas para a web.
 Módulo II: Como utilizar recursos mais avançados e profissionais para a criação de páginas para a internet. E mais: aprenderá como aplicar esses recursos na criação de uma página de login e de uma página home.
 Módulo III: Start na construção de uma aplicação completa utilizando e aplicando tudo que foi aprendido até aqui (mais spoilers na sequência)!
